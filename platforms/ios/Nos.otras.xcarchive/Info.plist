@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/Nos.otras.app</string>
+		<key>CFBundleIdentifier</key>
+		<string>nosotras.coders.com.ar</string>
+		<key>CFBundleShortVersionString</key>
+		<string>19.10.02</string>
+		<key>CFBundleVersion</key>
+		<string>19.10.02</string>
+		<key>SigningIdentity</key>
+		<string>iPhone Developer: Manuel Barrios (7A52D5QF3S)</string>
+		<key>Team</key>
+		<string>U68CD33657</string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2019-10-14T13:58:45Z</date>
+	<key>Name</key>
+	<string>Nos.otras</string>
+	<key>SchemeName</key>
+	<string>Nos.otras</string>
+</dict>
+</plist>

@@ -47,4 +47,8 @@ export class HomePage {
   direccion() {
     this.router.navigate(['/direccion']);
   }
+
+  hacer() {
+    this.router.navigate(['/hacer']);
+  }
 }

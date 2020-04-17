@@ -22,7 +22,8 @@ const routes: Routes = [
   { path: 'login', loadChildren: './login/login.module#LoginPageModule' },
   { path: 'consultas', loadChildren: './consultas/consultas.module#ConsultasPageModule' },
   { path: 'register', loadChildren: './register/register.module#RegisterPageModule' },
-  { path: 'direccion', loadChildren: './direccion/direccion.module#DireccionPageModule' }
+  { path: 'direccion', loadChildren: './direccion/direccion.module#DireccionPageModule' },
+  { path: 'hacer', loadChildren: './hacer/hacer.module#HacerPageModule' }
 ];
 
 @NgModule({
